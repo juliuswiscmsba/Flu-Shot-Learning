@@ -1,3 +1,8 @@
+#Ipython file may does work on GitHub. Use Google Colab instead! 
+
+
+
+
 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines
 
 Competition: https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
