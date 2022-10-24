@@ -1,5 +1,7 @@
 ## Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines
 
+![flu-vaccine](https://user-images.githubusercontent.com/90480106/197601728-798beeb2-4e10-488a-9edc-1cf1627bf301.jpeg)
+
 Competition: https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
 #### Jupyter Notebook file may does work on GitHub. Use Google Colab instead! 
