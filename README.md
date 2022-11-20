@@ -4,7 +4,7 @@
 
 Competition: https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
-#### Jupyter Notebook file may does work on GitHub. Use Google Colab instead! 
+#### Jupyter Notebook file may not work on GitHub. Use Google Colab instead! 
 
 Using CatBoost to predict and SHAP to analyze the model. 
 
